@@ -1,0 +1,26 @@
+img {
+  width: 100%;
+}
+html {
+  background-color: black;
+}
+iframe {
+  position: relative;
+  left: 400px;
+}
+h3 {
+  text-align: center;
+}
+#lorem {
+  font-family: cursive;
+}
+.site-footer {
+  background-color: darkred;
+  color: white;
+}
+#lorem {
+  column-count: 2;
+    column-gap: 40px;
+    column-rule: 4px;
+    padding-left: 100px;
+}
